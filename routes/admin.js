@@ -1,6 +1,6 @@
-const exporess = require("express");
+const express = require("express");
 
-const router = exppress.Router();
+const router = express.Router();
 
 //filter only get request
 // app.get
